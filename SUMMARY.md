@@ -12,4 +12,5 @@
     * [指数爆炸](chapter1/ji-chu-shu-xue/zhi-shu-bao-zha.md)
     * [不可解问题](chapter1/ji-chu-shu-xue/bu-ke-jie-wen-ti.md)
     * [程序数学](chapter1/ji-chu-shu-xue/cheng-xu-shu-xue.md)
+* [关于递归](guan-yu-di-gui.md)
 

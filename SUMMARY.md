@@ -13,4 +13,5 @@
     * [不可解问题](chapter1/ji-chu-shu-xue/bu-ke-jie-wen-ti.md)
     * [程序数学](chapter1/ji-chu-shu-xue/cheng-xu-shu-xue.md)
 * [关于递归](guan-yu-di-gui.md)
+* [哈希算法](ha-xi-suan-fa.md)
 

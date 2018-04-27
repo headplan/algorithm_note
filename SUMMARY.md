@@ -23,4 +23,6 @@
   * [B树](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/bshu.md)
   * [B+树](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/bjia-shu.md)
 * [算法 - PHP实现](suan-fa-php-shi-xian.md)
+  * [排序算法](suan-fa-php-shi-xian/pai-xu-suan-fa.md)
+  * [查找算法](suan-fa-php-shi-xian/cha-zhao-suan-fa.md)
 

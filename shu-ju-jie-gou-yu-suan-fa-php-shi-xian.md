@@ -43,6 +43,8 @@
 
 图形结构 : 元素之间存在多对多的关系 .
 
+![](/assets/luojijiegou1.png)![](/assets/luojijiegou2.png)![](/assets/luojijiegou3.png)![](/assets/luojijiegou4.png)
+
 ---
 
 顺序存储 - 在计算机中用一组地址连续的存储单元依次存储线性表的各个数据元素 , 称作线性表的顺序存储结构 .

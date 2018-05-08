@@ -12,8 +12,6 @@
     * [指数爆炸](chapter1/ji-chu-shu-xue/zhi-shu-bao-zha.md)
     * [不可解问题](chapter1/ji-chu-shu-xue/bu-ke-jie-wen-ti.md)
     * [程序数学](chapter1/ji-chu-shu-xue/cheng-xu-shu-xue.md)
-* [关于递归](guan-yu-di-gui.md)
-* [哈希算法](ha-xi-suan-fa.md)
 * [数据结构 - PHP实现](shu-ju-jie-gou-yu-suan-fa-php-shi-xian.md)
   * [数组](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/shu-zu.md)
   * [链表](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/lian-biao.md)
@@ -26,4 +24,6 @@
 * [算法 - PHP实现](suan-fa-php-shi-xian.md)
   * [排序算法](suan-fa-php-shi-xian/pai-xu-suan-fa.md)
   * [查找算法](suan-fa-php-shi-xian/cha-zhao-suan-fa.md)
+  * [关于递归](suan-fa-php-shi-xian/guan-yu-di-gui.md)
+  * [哈希算法](suan-fa-php-shi-xian/ha-xi-suan-fa.md)
 

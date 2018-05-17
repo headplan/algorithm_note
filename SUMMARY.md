@@ -29,6 +29,7 @@
   * [排序算法](suan-fa-php-shi-xian/pai-xu-suan-fa.md)
     * [冒泡排序](suan-fa-php-shi-xian/pai-xu-suan-fa/mao-pao-pai-xu.md)
     * [选择排序](suan-fa-php-shi-xian/pai-xu-suan-fa/xuan-ze-pai-xu.md)
+    * [插入排序](suan-fa-php-shi-xian/pai-xu-suan-fa/cha-ru-pai-xu.md)
   * [查找算法](suan-fa-php-shi-xian/cha-zhao-suan-fa.md)
   * [关于递归](suan-fa-php-shi-xian/guan-yu-di-gui.md)
   * [哈希算法](suan-fa-php-shi-xian/ha-xi-suan-fa.md)

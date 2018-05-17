@@ -18,5 +18,5 @@
   * B树
   * B+树
 
-
+![](/assets/erchashutu.png)
 

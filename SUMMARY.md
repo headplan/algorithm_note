@@ -20,6 +20,7 @@
       * [双向链表](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/xian-xing-biao/lian-biao/shuang-xiang-lian-biao.md)
     * [队列](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/xian-xing-biao/dui-lie.md)
     * [堆栈](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/xian-xing-biao/dui-zhan.md)
+  * [树](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/shu.md)
   * [二叉树](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/er-cha-shu.md)
   * [B树](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/bshu.md)
   * [B+树](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/bjia-shu.md)

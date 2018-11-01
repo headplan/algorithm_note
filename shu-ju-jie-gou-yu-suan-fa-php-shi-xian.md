@@ -1,6 +1,6 @@
 # 数据结构与算法 - PHP实现
 
-![](/assets/shujujiegoubaohan.png)
+![](/assets/shujujiegouhesuanfa.png)
 
 逻辑结构 : 集合结构 , 线性结构 , 树型结构 , 图形结构​​
 

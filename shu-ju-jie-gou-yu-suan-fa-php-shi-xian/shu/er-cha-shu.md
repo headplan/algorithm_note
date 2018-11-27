@@ -80,6 +80,14 @@ postOrder(r) = postOrder(r->left)->postOrder(r->right)->print r
 
 ![](/assets/erchachazhaoshu.png)
 
+**二叉查找树的查找操作**
+
+二叉查找树的插入操作
+
+二叉查找树的删除操作
+
+二叉查找树的其他操作
+
 #### 红黑树
 
 

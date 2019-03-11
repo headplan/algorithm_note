@@ -12,6 +12,8 @@
     * [指数爆炸](chapter1/ji-chu-shu-xue/zhi-shu-bao-zha.md)
     * [不可解问题](chapter1/ji-chu-shu-xue/bu-ke-jie-wen-ti.md)
     * [程序数学](chapter1/ji-chu-shu-xue/cheng-xu-shu-xue.md)
+    * [十进制转二进制](chapter1/ji-chu-shu-xue/shi-jin-zhi-zhuan-er-jin-zhi.md)
+    * 二进制转十进制
 * [数据结构与算法](shu-ju-jie-gou-yu-suan-fa-php-shi-xian.md)
   * [复杂度分析](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/fu-za-du-fen-xi.md)
     * [最好 , 最坏 , 平均 , 均摊时间复杂度](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/fu-za-du-fen-xi/zui-hao-zui-huai-ping-jun-jun-tan-shi-jian-fu-za-du.md)

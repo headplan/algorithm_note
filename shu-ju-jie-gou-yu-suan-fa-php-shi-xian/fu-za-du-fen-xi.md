@@ -105,7 +105,7 @@ function sum($n)
     $array = range(1, $n); # {2}
 
     for ($i=0; $i < $n; $i++) { # {3}
-    $result += $array[$i]; # {4}
+        $result += $array[$i]; # {4}
     }
 
     return $result; # {5}

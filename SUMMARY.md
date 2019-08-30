@@ -39,4 +39,5 @@
     * [十进制转二进制](chapter1/ji-chu-shu-xue/shi-jin-zhi-zhuan-er-jin-zhi.md)
     * [二进制转十进制](chapter1/ji-chu-shu-xue/er-jin-zhi-zhuan-shi-jin-zhi.md)
 * [LeetCode](leetcode.md)
+  * [两数之和](leetcode/liang-shu-zhi-he.md)
 

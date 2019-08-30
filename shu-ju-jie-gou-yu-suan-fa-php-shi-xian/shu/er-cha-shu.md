@@ -66,9 +66,5 @@ postOrder(r) = postOrder(r->left)->postOrder(r->right)->print r
 
 已知一颗二叉树的前序遍历序列为ABCDEF , 中序遍历序列为CBAEDF , 请问这颗二叉树的后序遍历的结果是什么 ? CBEFDA
 
-#### 
-
-#### 红黑树
-
 
 

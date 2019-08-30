@@ -56,6 +56,7 @@ def recursion(level, param1, param2, ...):
     self.recursion(level + 1, p1_pro, p2_pro, ...)
 
     # reverse the current level status if needed
+    # 如果需要的话,改变当前层的状态
     reverse_state(level)
 ```
 

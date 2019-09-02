@@ -14,15 +14,15 @@ Exception in thread "main" java.lang.StackOverflowError
 
 **如何避免出现堆栈溢出 ? **
 
-可以通过在代码中限制递归调用的最大深度的方式来解决这个问题 . 比如 , 设置递归调用超过一定深度之后 , 就不继续往下再递归了 , 直接返回报错 . 例如 : 
+可以通过在代码中限制递归调用的最大深度的方式来解决这个问题 . 比如 , 设置递归调用超过一定深度之后 , 就不继续往下再递归了 , 直接返回报错 . 例如 :
 
-```c
+```cpp
 // 全局变量,表示递归的深度
 int depth = 0;
 int f(int n) {
     ++depth;
     if (depth > 1000) throw exception;
-    
+
     if (n == 1) return 1;
     return f(n-1) + 1;
 }

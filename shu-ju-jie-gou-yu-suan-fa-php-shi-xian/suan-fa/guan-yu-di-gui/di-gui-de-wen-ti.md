@@ -38,21 +38,40 @@ int f(int n) {
 
 这里可以直观的看到 , 想要计算f\(5\) , 需要先计算f\(4\)和f\(3\) , 而计算f\(4\)还需要计算f\(3\) , 这里f\(3\)就被计算了很多次 , 就是重复计算问题 .
 
-为了避免重复计算 , 可以通过一个数据结构\(比如散列表\)来保存已经求解过的f\(k\) . 当递归调用到f\(k\)时 , 先检查一下是否已经求解过了 . 如果是 , 则直接从散列表中取值返回 , 避免重复计算 . 
+为了避免重复计算 , 可以通过一个数据结构\(比如散列表\)来保存已经求解过的f\(k\) . 当递归调用到f\(k\)时 , 先检查一下是否已经求解过了 . 如果是 , 则直接从散列表中取值返回 , 避免重复计算 .
 
 ```java
 public int f(int n) {
   if (n == 1) return 1;
   if (n == 2) return 2;
-  
+
   // hasSolvedList 可以理解成一个 Map，key 是 n，value 是 f(n)
   if (hasSolvedList.containsKey(n)) {
     return hasSovledList.get(n);
   }
-  
+
   int ret = f(n-1) + f(n-2);
   hasSovledList.put(n, ret);
   return ret;
+}
+```
+
+```php
+function fib2($n)
+{
+    $arr = [];
+    if ($n == 1 or $n == 2) {
+		return $n;
+	}
+	
+	if (array_key_exists($n, $arr)) {
+		return $arr[$n];
+	}
+	
+	$ret = fib($n - 1) + fib($n - 2);
+	$arr[$n] = $ret;
+
+	return $ret;
 }
 ```
 

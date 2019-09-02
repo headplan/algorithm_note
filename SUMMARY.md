@@ -20,6 +20,7 @@
   * [B+树](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/bjia-shu.md)
   * [算法](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/suan-fa.md)
     * [关于递归](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/suan-fa/guan-yu-di-gui.md)
+      * [递归需要满足的条件](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/suan-fa/guan-yu-di-gui/di-gui-xu-yao-man-zu-de-tiao-jian.md)
 * [算法](suan-fa-php-shi-xian.md)
   * [排序算法](suan-fa-php-shi-xian/pai-xu-suan-fa.md)
     * [冒泡排序](suan-fa-php-shi-xian/pai-xu-suan-fa/mao-pao-pai-xu.md)

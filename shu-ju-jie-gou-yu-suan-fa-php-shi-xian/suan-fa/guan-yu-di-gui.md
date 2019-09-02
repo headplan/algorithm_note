@@ -60,5 +60,31 @@ def recursion(level, param1, param2, ...):
     reverse_state(level)
 ```
 
+#### 代码实例
+
+计算阶乘n!
+
+```
+n! = 1 * 2 * 3 * 4 * ... * n
+```
+
+```py
+def Factorial(n):
+    if n <= 1:
+        return 1
+    return n * Factorial(n - 1)
+```
+
+```php
+function factorial($n)
+{
+    if ($n <= 1) {
+        return $n;
+    }
+	
+    return $n * factorial($n - 1);
+}
+```
+
 
 

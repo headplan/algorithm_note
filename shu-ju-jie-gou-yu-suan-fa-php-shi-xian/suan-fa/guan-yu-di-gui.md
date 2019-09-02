@@ -92,6 +92,8 @@ function factorial($n)
 
 Fibonacci array : 1 , 1 , 2 , 3 , 5 , 13 , 21 , 34 ...
 
+![](/assets/fibonacci.png)
+
 ```
 F(n) = F(n-1)+F(n-2)
 ```

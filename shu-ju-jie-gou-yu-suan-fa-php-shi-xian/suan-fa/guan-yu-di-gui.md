@@ -64,6 +64,8 @@ def recursion(level, param1, param2, ...):
 
 计算阶乘n!
 
+![](/assets/recursive.png)
+
 ```
 n! = 1 * 2 * 3 * 4 * ... * n
 ```

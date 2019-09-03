@@ -109,22 +109,22 @@ function fib($n)
     return fib($n - 1) + fib($n - 2);
 }
 
-$arr = [];		
+$arr = [];        
 function fib2($n)
 {
-	global $arr;
-	if ($n == 1 or $n == 2) {
-		return $n;
-	}
+    global $arr;
+    if ($n == 1 or $n == 2) {
+        return $n;
+    }
 
-	if (array_key_exists($n, $arr)) {
-		return $arr[$n];
-	}
+    if (array_key_exists($n, $arr)) {
+        return $arr[$n];
+    }
 
-	$ret = fib2($n - 1) + fib2($n - 2);
-	$arr[$n] = $ret;
+    $ret = fib2($n - 1) + fib2($n - 2);
+    $arr[$n] = $ret;
 
-	return $ret;
+    return $ret;
 }
 
 function fib2($n)

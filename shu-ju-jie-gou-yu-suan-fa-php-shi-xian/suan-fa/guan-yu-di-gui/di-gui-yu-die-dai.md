@@ -109,7 +109,26 @@ function fib($n)
     return fib($n - 1) + fib($n - 2);
 }
 
-function fib2($n) {
+$arr = [];		
+function fib2($n)
+{
+	global $arr;
+	if ($n == 1 or $n == 2) {
+		return $n;
+	}
+
+	if (array_key_exists($n, $arr)) {
+		return $arr[$n];
+	}
+
+	$ret = fib2($n - 1) + fib2($n - 2);
+	$arr[$n] = $ret;
+
+	return $ret;
+}
+
+function fib2($n)
+{
     if ($n == 1 or $n == 2) {
         return $n;
     }

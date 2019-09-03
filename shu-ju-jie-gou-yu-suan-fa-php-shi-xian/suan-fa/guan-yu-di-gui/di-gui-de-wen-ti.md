@@ -57,9 +57,10 @@ public int f(int n) {
 ```
 
 ```php
+$arr = [];
 function fib2($n)
 {
-    $arr = [];
+    global $arr;
     if ($n == 1 or $n == 2) {
         return $n;
     }

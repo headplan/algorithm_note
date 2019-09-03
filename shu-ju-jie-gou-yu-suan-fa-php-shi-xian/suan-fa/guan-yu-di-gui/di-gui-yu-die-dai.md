@@ -102,14 +102,14 @@ function f2($x)
 ```php
 function fib($n)
 {
-	if ($n == 1 or $n == 2) {
-		return $n;
-	}
-	
-	return fib($n - 1) + fib($n - 2);
+    if ($n == 1 or $n == 2) {
+        return $n;
+    }
+
+    return fib($n - 1) + fib($n - 2);
 }
 
-function fib($n) {
+function fib2($n) {
     if ($n == 1 or $n == 2) {
         return $n;
     }

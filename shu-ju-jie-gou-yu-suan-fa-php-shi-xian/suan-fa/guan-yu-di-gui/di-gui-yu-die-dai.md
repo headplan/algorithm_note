@@ -99,8 +99,23 @@ function f2($x)
 
 上台阶问题
 
-```
-
+```php
+function fib($n) {
+	if ($n == 1 or $n == 2) {
+		return $n;
+	}
+	
+	$ret = 0;
+	$pre = 2;
+	$prepre = 1;
+	for ($i = 3; $i <= $n; $i++) {
+		$ret = $pre + $prepre;
+		$prepre = $pre;
+		$pre = $ret;
+	}
+	
+	return $ret;
+}
 ```
 
 

@@ -86,14 +86,30 @@ function n($n) {
 }
 ```
 
-同样是阶乘 , 可以写为 : 
+同样是阶乘 , 可以写为 :
 
 ```php
 function n2($n, $res=1, $counter=2) {
-	if ($counter > $n) {
-		return $res;
+    if ($counter > $n) {
+        return $res;
+    }
+    return n2($n,$res*$counter,$counter+1);
+}
+```
+
+虽然n2方法调用了它自己 , 但从它的执行过程里 , 所需要的所有的东西都是`$n,$res,$counter`. 所以它是迭代计算过程 . 这个过程在继续调用自身时 , 不需要增加存储 , 这个的过程就叫**尾递归** . 
+
+尾递归还可以用循环来代替 : 
+
+```php
+function n3($n) {
+	$a=1;$b=2;
+	for ($i=2;$i<=$n;$i++) {
+		$c = $a*$b;
+		$a = $c;
+		$b = $b+1;
 	}
-	return n2($n,$res*$counter,$counter+1);
+	return $a;
 }
 ```
 

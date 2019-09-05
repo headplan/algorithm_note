@@ -26,9 +26,11 @@ int facorial_tail(int n, int acc1, int acc2)
 
 #### Continuation Passing Style的概念
 
-所谓Continuation , 其实本来是一个函数调用机制 . 
+所谓Continuation , 其实本来是一个函数调用机制 .
 
+后续内容设计函数式概念较多 , 参考 : 
 
+[http://www.defmacro.org/2006/06/19/fp.html](http://www.defmacro.org/2006/06/19/fp.html)
 
-
+[https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn/blob/master/FunctionalProgrammingForTheRestOfUs.cn.md](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn/blob/master/FunctionalProgrammingForTheRestOfUs.cn.md)
 

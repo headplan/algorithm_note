@@ -25,7 +25,7 @@
       * [递归与迭代](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/suan-fa/guan-yu-di-gui/di-gui-yu-die-dai.md)
       * [递归计算过程与迭代计算过程](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/suan-fa/guan-yu-di-gui/di-gui-ji-suan-guo-cheng-yu-die-dai-ji-suan-guo-cheng.md)
       * [尾递归](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/suan-fa/guan-yu-di-gui/wei-di-gui.md)
-      * 尾递归与CPS
+      * [尾递归与CPS](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/suan-fa/guan-yu-di-gui/wei-di-gui-yu-cps.md)
 * [算法](suan-fa-php-shi-xian.md)
   * [排序算法](suan-fa-php-shi-xian/pai-xu-suan-fa.md)
     * [冒泡排序](suan-fa-php-shi-xian/pai-xu-suan-fa/mao-pao-pai-xu.md)

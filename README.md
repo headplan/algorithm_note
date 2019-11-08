@@ -1,9 +1,5 @@
 # 算法与数据结构
 
-还有一些基本概念.
-
-**数据结构与算法**
-
 参考Github :
 
 [https://github.com/PuShaoWei/arithmetic-php](https://github.com/PuShaoWei/arithmetic-php) - 收藏比较多

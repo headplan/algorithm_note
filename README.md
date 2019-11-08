@@ -1,5 +1,12 @@
 # 算法与数据结构
 
+![](/assets/shujujiegouhesuanfa.png)
+
+* **10个常见数据结构** : 数组 , 链表 , 栈 , 队列 , 散列表 , 二叉树 , 堆 , 跳表 , 图 , Trie树 ; 
+* **10个常见算法** : 递归 , 排序 , 二分查找 , 搜索 , 哈希算法 , 贪心算法 , 分治算法 , 回溯算法 , 动态规划 , 字符串匹配算法 ; 
+
+---
+
 参考Github :
 
 [https://github.com/PuShaoWei/arithmetic-php](https://github.com/PuShaoWei/arithmetic-php) - 收藏比较多

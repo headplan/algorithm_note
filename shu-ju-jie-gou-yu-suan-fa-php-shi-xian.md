@@ -1,4 +1,4 @@
-# 数据结构与算法 - PHP实现
+# 数据结构与算法
 
 ![](/assets/shujujiegouhesuanfa.png)
 

@@ -11,7 +11,7 @@
       * [链表](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/xian-xing-biao/lian-biao.md)
         * [单链表](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/xian-xing-biao/lian-biao/dan-lian-biao-dai-ma.md)
         * [双向链表](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/xian-xing-biao/lian-biao/shuang-xiang-lian-biao.md)
-      * [栈](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/xian-xing-biao/dui-zhan.md)
+      * [栈](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/xian-xing-biao/zhan.md)
       * [队列](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/xian-xing-biao/dui-lie.md)
     * [散列表](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/san-lie-biao.md)
     * [树](shu-ju-jie-gou-yu-suan-fa-php-shi-xian/shu.md)

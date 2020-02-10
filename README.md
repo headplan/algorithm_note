@@ -28,7 +28,27 @@
 * 位运算 Bitwise , 基于位运算的布隆过滤器 Bloom Filter
 * 缓存 LRU Cache
 
+#### 算法
+
+**基础**
+
+* if-else , switch -&gt; branch 跳转语句 , 逻辑切换
+* for , while loop -&gt; Iteration 循环
+* Recursion \(Divide & Conquer , Backtrace\) 递归
+
+**高级**
+
+搜索 Search : 深度优先搜索 Depth first search , 广度优先搜索 Breadth first search , 启发式搜索 A \* , etc.
+
+动态规划 Dynamic Programming
+
 ---
+
+百度脑图 : 
+
+[https://naotu.baidu.com/file/b832f043e2ead159d584cca4efb19703?token=7a6a56eb2630548c](https://naotu.baidu.com/file/b832f043e2ead159d584cca4efb19703?token=7a6a56eb2630548c)
+
+[https://naotu.baidu.com/file/0a53d3a5343bd86375f348b2831d3610?token=5ab1de1c90d5f3ec](https://naotu.baidu.com/file/0a53d3a5343bd86375f348b2831d3610?token=5ab1de1c90d5f3ec)
 
 参考Github :
 

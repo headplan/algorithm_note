@@ -38,13 +38,17 @@
 
 **高级**
 
-搜索 Search : 深度优先搜索 Depth first search , 广度优先搜索 Breadth first search , 启发式搜索 A \* , etc.
+* 搜索 Search : 深度优先搜索 Depth first search , 广度优先搜索 Breadth first search , 启发式搜索 A \* , etc.
+* 动态规划 Dynamic Programming
+* 查找 : 二分查找 Binary Search
+* 贪心 Greedy , 排序 Sort
+* 数学 Math , 几何 Geometry
 
-动态规划 Dynamic Programming
+
 
 ---
 
-百度脑图 : 
+百度脑图 :
 
 [https://naotu.baidu.com/file/b832f043e2ead159d584cca4efb19703?token=7a6a56eb2630548c](https://naotu.baidu.com/file/b832f043e2ead159d584cca4efb19703?token=7a6a56eb2630548c)
 

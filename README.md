@@ -16,17 +16,17 @@
 
 二维数据接口可以理解为是从一维数据结构泛华而来的 .
 
-基础 : 树 tree , 图 graph
-
-高级 : 二叉搜索树 binary search tree \(red-black tree , AVL\) , 堆 heap , 并查集 disjoint set , 字典树 Trie , etc.
+* 基础 : 树 tree , 图 graph
+* 高级 : 二叉搜索树 binary search tree \(red-black tree , AVL\) , 堆 heap , 并查集 disjoint set , 字典树 Trie , etc.
 
 > 在树的基础上加了很多特殊判断和约定条件
 
 **特殊数据结构**
 
-主要用于工程中特定的情景 . 
+主要用于工程中特定的情景 .
 
-位运算 Bitwise , 基于位运算的布隆过滤器 Bloom Filter
+* 位运算 Bitwise , 基于位运算的布隆过滤器 Bloom Filter
+* 缓存 LRU Cache
 
 ---
 

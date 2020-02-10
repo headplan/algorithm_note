@@ -7,9 +7,12 @@
 
 #### 数据结构
 
-一维数据结构
+**一维数据结构**
 
-二维数据结构
+* 基础 : 数组 array \(string\) , 链表 linked list
+* 高级 : 栈 stack , 队列 queue , 双端队列 deque , 集合 set , 映射 map \(hash or map\) , etc.
+
+**二维数据结构**
 
 特殊数据结构
 

@@ -1,6 +1,6 @@
 # 数据结构与算法
 
-![](/assets/shujujiegouhesuanfa.png)
+![](/assets/数据结构与算法.png)
 
 * **10个常见数据结构** : 数组 , 链表 , 栈 , 队列 , 散列表 , 二叉树 , 堆 , 跳表 , 图 , Trie树 ; 
 * **10个常见算法** : 递归 , 排序 , 二分查找 , 搜索 , 哈希算法 , 贪心算法 , 分治算法 , 回溯算法 , 动态规划 , 字符串匹配算法 ; 
@@ -44,15 +44,7 @@
 * 贪心 Greedy , 排序 Sort
 * 数学 Math , 几何 Geometry
 
-
-
 ---
-
-百度脑图 :
-
-[https://naotu.baidu.com/file/b832f043e2ead159d584cca4efb19703?token=7a6a56eb2630548c](https://naotu.baidu.com/file/b832f043e2ead159d584cca4efb19703?token=7a6a56eb2630548c)
-
-[https://naotu.baidu.com/file/0a53d3a5343bd86375f348b2831d3610?token=5ab1de1c90d5f3ec](https://naotu.baidu.com/file/0a53d3a5343bd86375f348b2831d3610?token=5ab1de1c90d5f3ec)
 
 参考Github :
 

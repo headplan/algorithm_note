@@ -1,6 +1,4 @@
-拖延了很久 , 终于开始ARTS了 . 最近总在上下班的路上听课 , 效果依然不明显 , 所以还是快点行动吧 !
-
-### [两数之和](https://leetcode-cn.com/problems/two-sum/)
+# [两数之和](https://leetcode-cn.com/problems/two-sum/)
 
 给定一个整数数组nums和一个目标值 target , 请你在该数组中找出和为目标值的那两个整数 , 并返回他们的数组下标 .
 

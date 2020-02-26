@@ -72,7 +72,7 @@ int find(int[] array, int n, int x) {
 
 平均复杂度只在某些特殊情况下才会用到 , 而均摊时间复杂度应用的场景比它更加特殊、更加有限 .
 
-```cpp
+```java
 // array表示一个长度为n的数组
 // 代码中的array.length就等于n
 int[] array = new int[n];

@@ -64,11 +64,34 @@ int find(int[] array, int n, int x) {
 
 ![](/assets/pingjunshijianfuzadu.png)
 
-这个值就是概率论中的**加权平均值** , 也叫作**期望值** , 所以平均时间复杂度的全称应该叫**加权平均时间复杂度**或者**期望时间复杂度** . 
+这个值就是概率论中的**加权平均值** , 也叫作**期望值** , 所以平均时间复杂度的全称应该叫**加权平均时间复杂度**或者**期望时间复杂度** .
 
-加权平均值为 \(3n+1\)/4 , 去掉系数和常量 , 加权平均时间复杂度仍然是O\(n\) . 
+加权平均值为 \(3n+1\)/4 , 去掉系数和常量 , 加权平均时间复杂度仍然是O\(n\) .
 
 #### 均摊时间复杂度
+
+平均复杂度只在某些特殊情况下才会用到 , 而均摊时间复杂度应用的场景比它更加特殊、更加有限 . 
+
+```
+// array表示一个长度为n的数组
+// 代码中的array.length就等于n
+int[] array = new int[n];
+int count = 0;
+
+void insert(int val) {
+ if (count == array.length) {
+    int sum = 0;
+    for (int i = 0; i < array.length; ++i) {
+       sum = sum + array[i];
+    }
+    array[0] = sum;
+    count = 1;
+ }
+
+ array[count] = val;
+ ++count;
+}
+```
 
 
 

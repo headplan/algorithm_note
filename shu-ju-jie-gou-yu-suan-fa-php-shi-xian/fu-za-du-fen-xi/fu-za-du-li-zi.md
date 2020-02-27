@@ -19,13 +19,19 @@ while i < n:
   i = i * 2 # 终止条件为对数
 ```
 
-**线性复杂度\(Linear Complexity\)**
+**O\(n\) : 线性复杂度\(Linear Complexity\)**
+
+```py
+n = 1000
+for i in range(n):
+  print(i)
+```
 
 **平方复杂度\(N Square Complexity\)**
 
-立方复杂度（N Cube Complexity）
+**立方复杂度\(N Cube Complexity\)**
 
-指数复杂度（Exponential Growth）
+**指数复杂度\(Exponential Growth\)**
 
-阶乘复杂度（Factorial Complexity）
+**阶乘复杂度\(Factorial Complexity\)**
 

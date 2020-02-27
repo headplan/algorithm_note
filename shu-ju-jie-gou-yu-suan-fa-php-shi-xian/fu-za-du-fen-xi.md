@@ -170,15 +170,15 @@ T(n) = O(1)
 
 线性阶 O\(n\) - Linear Complexity : 线性复杂度
 
-线性对数阶 O\(nlogn\) - 线性对数复杂度
+线性对数阶 O\(nlogn\) - Linear logarithmic Complexity : 线性对数复杂度
 
 平方阶 O\(n^2\) - N square Complexity : 平方复杂度
 
-立方阶 O\(n^3\) - N square Complexity : 立方复杂度
+立方阶 O\(n^3\) - N cube Complexity : 立方复杂度
 
-指数阶 O\(2^n\) - Exponential Growth : 指数复杂度
+指数阶 O\(2^n\) - Exponential Growth Complexity : 指数复杂度
 
-阶乘阶 O\(n!\) - Factorial : 阶乘复杂度
+阶乘阶 O\(n!\) - Factorial Complexity : 阶乘复杂度
 
 k次方阶 O\(n^k\) - k次方复杂度
 
@@ -239,7 +239,9 @@ int cal(int m, int n) {
 }
 ```
 
-m和n表示两个数据规模 , 无法事先评估谁的量级大 , 不能省略掉一个 , 所以复杂度为O\(m+n\) .
+m和n表示两个数据规模 , 无法事先评估谁的量级大 , 不能省略掉一个 , 所以复杂度为O\(m+n\) . 
+
+> 更多复杂度相关的例子 , 查看下面复杂度例子相关文章 .
 
 ### 算法的空间复杂度
 

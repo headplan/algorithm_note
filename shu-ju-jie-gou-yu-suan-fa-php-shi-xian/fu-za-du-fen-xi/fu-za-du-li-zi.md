@@ -27,11 +27,50 @@ for i in range(n):
   print(i)
 ```
 
-**平方复杂度\(N Square Complexity\)**
+**O\(n^2\) : 平方复杂度\(N Square Complexity\)**
 
-**立方复杂度\(N Cube Complexity\)**
+```py
+n = 1000
+for i in range(n):
+  for j in range(n):
+    print(i+j)
+```
 
-**指数复杂度\(Exponential Growth\)**
+**O\(n^2\) : 立方复杂度\(N Cube Complexity\)**
 
-**阶乘复杂度\(Factorial Complexity\)**
+```py
+n = 1000
+for i in range(n):
+  for j in range(n):
+    for k in range(n):
+      print(i+j+k)
+```
+
+**O\(2^n\) : 指数复杂度\(Exponential Growth\)**
+
+```py
+import math
+
+i = 1
+n = 1000
+while i < math.pow(2,n): # 终止条件为指数
+  print(i)
+```
+
+**O\(n!\) : 阶乘复杂度\(Factorial Complexity\)**
+
+```py
+i = 1
+n = 1000
+while i < factorial(n): # 终止条件为指数
+  print(i)
+
+def factorial(n):
+  if n == 0 or n == 1:
+      return 1
+  else:
+      return (n * factorial(n - 1))
+```
+
+
 

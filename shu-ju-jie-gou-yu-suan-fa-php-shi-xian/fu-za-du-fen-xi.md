@@ -125,7 +125,7 @@ function sum($n)
 }
 ```
 
-上面代码分为三部分 , 分别是求$result1 , $result2 , $result3 . 可以分别分析每一部分的时间复杂度 , 然后把它们放到一块 , 再取一个量级最大的作为整段代码的时间复杂度 . 
+上面代码分为三部分 , 分别是求$result1 , $result2 , $result3 . 可以分别分析每一部分的时间复杂度 , 然后把它们放到一块 , 再取一个量级最大的作为整段代码的时间复杂度 .
 
 **第三种方式**
 
@@ -164,23 +164,23 @@ T(n) = O(1)
 
 ![](/assets/changjianfuzadu.png)
 
-常量阶 O\(1\)
+常量阶 O\(1\) - Constant Complexity : 常数复杂度
 
-对数阶 O\(logn\)
+对数阶 O\(logn\) - Logarithmic Complexity : 对数复杂度
 
-线性阶 O\(n\)
+线性阶 O\(n\) - Linear Complexity : 线性复杂度
 
-线性对数阶 O\(nlogn\)
+线性对数阶 O\(nlogn\) - 线性对数复杂度
 
-平方阶 O\(n^2\)
+平方阶 O\(n^2\) - N square Complexity : 平方复杂度
 
-立方阶 O\(n^3\)
+立方阶 O\(n^3\) - N square Complexity : 立方复杂度
 
-指数阶 O\(2^n\)
+指数阶 O\(2^n\) - Exponential Growth : 指数复杂度
 
-阶乘阶 O\(n!\)
+阶乘阶 O\(n!\) - Factorial : 阶乘复杂度
 
-k次方阶 O\(n^k\)
+k次方阶 O\(n^k\) - k次方复杂度
 
 ```
 O(1) < O(logn) < O(n) < O(nlogn) < O(n^2) < O(n^3) < O(2^n) < O(n!) < O(n^k)
@@ -378,5 +378,7 @@ S(n) = O(n)
 
 > 其实算法的空间复杂度计算结果你会发现对应数据类型的空间大小都被简化没了，变成了数一数算法中变量个数的游戏！
 
+#### 相关扩展
 
+数学证明 : [https://www.zhihu.com/question/21387264](https://www.zhihu.com/question/21387264)
 

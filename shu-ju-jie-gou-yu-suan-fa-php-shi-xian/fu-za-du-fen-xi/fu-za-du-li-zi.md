@@ -72,5 +72,5 @@ def factorial(n):
       return (n * factorial(n - 1))
 ```
 
-
+![](/assets/fuzadufenxi.png)
 

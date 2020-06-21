@@ -35,5 +35,6 @@
   * [关于递归](suan-fa-php-shi-xian/guan-yu-di-gui.md)
   * [哈希算法](suan-fa-php-shi-xian/ha-xi-suan-fa.md)
 * [LeetCode](leetcode.md)
-  * [两数之和](leetcode/liang-shu-zhi-he.md)
+  * [数组,链表,跳表](leetcode/shu-7ec42c-lian-88682c-tiao-biao.md)
+    * [两数之和](leetcode/shu-7ec42c-lian-88682c-tiao-biao/liang-shu-zhi-he.md)
 
